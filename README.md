@@ -9,7 +9,7 @@ PC以外の端末には対応してません。
 - 開発開始日:2026/6/25
 - 開発終了日:2026/7/19
 ## Demo
-公開URL：https://tomoya0813.github.io/portfolio/works/block-puzzle/index.html
+公開URL：https://tomoya0813.github.io/block-puzzle/
 ## 制作背景
 JavaScriptで実際に動くコードを作りたいと思い、作成しました。
 コードを書く中で完成度が高くなったためポートフォリオにしました。
